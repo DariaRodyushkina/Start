@@ -1,0 +1,12 @@
+h1 {
+    font-size: 30px;
+    color: blue;
+    margin-bottom: 50px;
+}
+p {
+    margin-bottom: 5px;
+}
+
+.output {
+    color: red;
+}
